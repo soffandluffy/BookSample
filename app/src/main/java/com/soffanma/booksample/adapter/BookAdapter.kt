@@ -27,7 +27,7 @@ class BookAdapter(val data: List<BookItem>?, private val click: onClickItem) : R
             click.clicked(data?.get(position))
         }
         holder.itemView.btnDelete.setOnClickListener {
-
+            click.delete(data?.get(position))
         }
     }
 

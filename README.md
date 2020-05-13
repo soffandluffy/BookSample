@@ -4,9 +4,6 @@ this is a simple android app, using Kotlin for android combined with Laravel RES
 for Laravel REST API project you can check it here : https://github.com/soffandluffy/booksimple-laravelrestapi
 
 ---
-type: doc
-layout: reference
-category: "Introduction"
 title: "Kotlin for Android"
 ---
 
